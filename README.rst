@@ -12,7 +12,7 @@ This whole package is distributed under the MIT license (see LICENSE.txt).
 Compatibility
 =============
 
-VintageEx aims at full cross-platform compatibility. Howerver, I cannot test
+VintageEx aims at full cross-platform compatibility. However, I cannot test
 under OS X, so patches and feedback are welcome.
 
 Installation
